@@ -10,3 +10,16 @@ content-type: application/json
 
 # GET http://localhost:3000/getUsers
 # content-type: application/json
+
+# DELETE http://localhost:3000/deleteUser/4
+# content-type: application/json
+
+
+# PUT http://localhost:3000/updateUser/6
+# content-type: application/json
+
+# {
+#     "name": "test",
+#     "email": "test@gmail.com",
+#     "password": "test"
+# }
